@@ -1,5 +1,5 @@
 {
-    "name": "naveenrajbu/bigcommerce-api-php-v3",
+    "name": "firebearstudio/bigcommerce-api-php-v3",
     "type": "library",
     "description": "Enables PHP applications to communicate with the Bigcommerce API.",
     "keywords": [
@@ -17,9 +17,9 @@
             "homepage": "http://www.bigcommerce.com"
         },
         {
-            "name": "Naveen Raj",
-            "homepage": "https://github.com/naveenrajbu/",
-            "email": "nvenrj@gmail.com"
+            "name": "Firebear Studio",
+            "homepage": "https://github.com/firebearstudio/",
+            "email": "info@firebearstudio.com"
         }
     ],
     "require": {
