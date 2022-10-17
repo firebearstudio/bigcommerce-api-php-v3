@@ -34,7 +34,7 @@ Use the following Composer command to install the
 API client from [the Bigcommerce vendor on Packagist](https://packagist.org/packages/naveenrajbu/bigcommerce-api-php-v3):
 
 ~~~shell
- $ composer require naveenrajbu/bigcommerce-api-php-v3
+ $ composer require firebearstudio/bigcommerce-api-php-v3
  $ composer update
 ~~~
 
